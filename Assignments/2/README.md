@@ -1,0 +1,2 @@
+- gradient of multi-variate functions
+- linear models with real-life dataset
